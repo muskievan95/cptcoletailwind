@@ -1,0 +1,20 @@
+{
+  "name": "cptcoletailwind",
+  "version": "1.0.0",
+  "description": "changing cpt site from bootstrap to tailwind.",
+  "main": "index.html",
+  "scripts": {
+    "build": " tailwindcss -i src/input.css -o dist/output.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muskievan95/cptcoletailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muskievan95/cptcoletailwind/issues"
+  },
+  "homepage": "https://github.com/muskievan95/cptcoletailwind#readme"
+}
